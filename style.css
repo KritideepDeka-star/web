@@ -1,0 +1,15 @@
+.coi{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.ul{
+    display:flex;
+    gap:16px;
+}
+list{
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+}
